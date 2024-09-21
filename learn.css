@@ -1,0 +1,22 @@
+#kite{
+    height: 2px;
+    width: 2px;
+    color: yellow;
+    background-color: chartreuse;
+}
+#right{
+    height: 2px;
+    width: 2px;
+    color: yellowgreen;
+}
+#good{
+    height: 2px;
+    width: 2px;
+    color: purple;
+}
+.box{
+    height: 48px;
+    width: 48px;
+    background-color: yellow;
+    background-image: url(https://images.pexels.com/photos/20542478/pexels-photo-20542478/free-photo-of-elderly-woman-in-traditional-clothing-walking-with-backpack.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
